@@ -1,8 +1,13 @@
-# React + Vite
+# Requisição React com Axios
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Baixe esse projeto
+- Execute o comando "npm install" para instalar as dependências
+- Execute o comando "npm run dev" para subir o projeto 
+- Abra o navegador no endereço "http://localhost:3000"
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Ojetivo
+
+Projeto criado como exemplo de requisições(GET/POST/PUT/DELETE) usando Axios e uma API Rest (mock.api)
+
+- Node: v20.11.00
